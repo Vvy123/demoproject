@@ -10,7 +10,8 @@ public class Annonymousclass {
 			public void type() 
 			{
 				System.out.println("Annonymous Animal");
-				}
+				System.out.println("hello word");
+			}
 			an.type();
 	}
 
