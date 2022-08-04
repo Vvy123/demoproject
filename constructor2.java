@@ -12,6 +12,7 @@ class outer
 		void show()
 		{
 			System.out.println("Inside Inner");
+			System.out.println("Inside Inner2");
 		}
 	}
 }
